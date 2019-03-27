@@ -7,10 +7,17 @@
     "authors": [
         {
             "email": "gaphafner@gmail.com",
-            "name": "Gasper Hafner"
+            "name": "Gasper Hafner",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/gasperhafner/artur2"
+        }
+    ],
     "require": {},
     "autoload": {
         "files": [
@@ -20,4 +27,3 @@
             "Artur\\CustomersProducts\\": ""
         }
     }
-}
