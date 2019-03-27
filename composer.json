@@ -1,6 +1,6 @@
 {
     "name": "artur/customers-products",
-    "description": "",
+    "description": "Artur Store Reviews is a tool to collect reviews from your customers.",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": "GPL-3.0",
@@ -27,3 +27,4 @@
             "Artur\\CustomersProducts\\": ""
         }
     }
+}
