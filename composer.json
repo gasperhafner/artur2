@@ -1,0 +1,23 @@
+{
+    "name": "artur/customers-products",
+    "description": "",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "gaphafner@gmail.com",
+            "name": "Gasper Hafner"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Artur\\CustomersProducts\\": ""
+        }
+    }
+}
