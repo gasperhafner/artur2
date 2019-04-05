@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/gasperhafner/artur2"
+            "url": "https://github.com/gasperhafner/customers-products"
         }
     ],
     "require": {},
