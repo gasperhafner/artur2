@@ -18,7 +18,9 @@
             "url": "https://github.com/gasperhafner/customers-products"
         }
     ],
-    "require": {},
+    "require": {
+	"php": ">=5.3.3"
+    },
     "autoload": {
         "files": [
             "registration.php"
