@@ -6,7 +6,7 @@
 				<resource id="Magento_Backend::stores">
 					<resource id="Magento_Backend::stores_settings">
 						<resource id="Magento_Config::config">
-							<resource id="Artur_CustomersProducts::config_artur_customersproducts" title="artur"/>
+							<resource id="Gasperhafner_CustomersProducts::config_gasperhafner_customersproducts" title="artur"/>
 						</resource>
 					</resource>
 				</resource>

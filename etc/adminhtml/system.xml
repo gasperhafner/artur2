@@ -4,7 +4,7 @@
 		<section id="artur" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 			<label>Artur Configuration</label>
 			<tab>sales</tab>
-			<resource>Artur_CustomersProducts::config_artur_customersproducts</resource>
+			<resource>Gasperhafner_CustomersProducts::config_gasperhafner_customersproducts</resource>
 
 			<group id="config" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label">
 				<label>Artur Configuration</label>
