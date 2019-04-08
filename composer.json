@@ -1,8 +1,8 @@
 {
-    "name": "gasperhafner/customers-products",
+    "name": "artur/customers-products",
     "description": "Artur Store Reviews is a tool to collect reviews from your customers.",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "license": "GPL-3.0",
     "authors": [
         {
@@ -26,7 +26,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Gasperhafner\\CustomersProducts\\": ""
+            "Artur\\CustomersProducts\\": ""
         }
     }
 }

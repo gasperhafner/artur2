@@ -1,6 +1,6 @@
 <?php
 
-namespace Gasperhafner\CustomersProducts\Model\Config\Source;
+namespace Artur\CustomersProducts\Model\Config\Source;
 
 use Magento\Framework\Option\ArrayInterface;
 
