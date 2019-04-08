@@ -14,7 +14,7 @@
 				</field>
 				<field id="environment" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="select">
 					<label>Environment</label>
-					<source_model>Artur\CustomersProducts\Model\Config\Source\Environments</source_model>
+					<source_model>Gasperhafner\CustomersProducts\Model\Config\Source\Environments</source_model>
 				</field>
 				<field id="test_email_address" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
 					<label>Test email address</label>
@@ -25,7 +25,7 @@
 				</field>
 				<field id="password" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="password">
 					<label>Password</label>
-					<config_path>artur/config/password</config_path>
+					<config_path>gasperhafner/config/password</config_path>
 				</field>
 				<field id="company_id" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
 					<label>Web store ID</label>
@@ -33,7 +33,7 @@
 				</field>
 				<field id="review_option" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="select">
 					<label>Review option</label>
-					<source_model>Artur\CustomersProducts\Model\Config\Source\ReviewOptions</source_model>
+					<source_model>Gasperhafner\CustomersProducts\Model\Config\Source\ReviewOptions</source_model>
 				</field>
 				<field id="send_product_review_after_hours" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10" translate="label" type="text">
 					<label>Send products review invitation email delay</label>

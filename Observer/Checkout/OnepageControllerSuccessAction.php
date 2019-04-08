@@ -1,11 +1,11 @@
 <?php
 /**
- * A Magento 2 module named Artur/CustomersProducts
+ * A Magento 2 module named Gasperhafner/CustomersProducts
  * Copyright (C) 2019
  *
- * This file is part of Artur/CustomersProducts.
+ * This file is part of Gasperhafner/CustomersProducts.
  *
- * Artur/CustomersProducts is free software: you can redistribute it and/or modify
+ * Gasperhafner/CustomersProducts is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
@@ -19,16 +19,16 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-namespace Artur\CustomersProducts\Observer\Checkout;
+namespace Gasperhafner\CustomersProducts\Observer\Checkout;
 
-use Artur\CustomersProducts\Model\Config\Source\ReviewOptions;
+use Gasperhafner\CustomersProducts\Model\Config\Source\ReviewOptions;
 use Magento\Catalog\Api\CategoryRepositoryInterface;
 use Magento\Catalog\Api\ProductRepositoryInterface;
 use Magento\Catalog\Model\ProductFactory;
 use Magento\Framework\App\Config\ScopeConfigInterface;
 use Magento\Sales\Api\OrderRepositoryInterface;
 use Magento\Catalog\Helper\Image;
-use Artur\CustomersProducts\Helper\Data as ArturApi;
+use Gasperhafner\CustomersProducts\Helper\Data as ArturApi;
 
 class OnepageControllerSuccessAction implements \Magento\Framework\Event\ObserverInterface
 {
