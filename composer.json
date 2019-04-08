@@ -2,7 +2,7 @@
     "name": "gasperhafner/customers-products",
     "description": "Artur Store Reviews is a tool to collect reviews from your customers.",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "license": "GPL-3.0",
     "authors": [
         {
